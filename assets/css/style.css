@@ -281,7 +281,14 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  /* background: #f5f8fd; */
+  background: rgba(188, 216, 235, .4);
+  /* background: #e9eef2; */
+  /* background: #edf3f7; */
+  /* background: #FBFBFF; */
+  /* background: #DAF0EE; */ /*light cyan */
+  /* background: #EEF8FF; /*alice blue*/ */
+  /* background: #E8F1F2; /* azure x 11 web color*/ */
 }
 
 .section-title {
